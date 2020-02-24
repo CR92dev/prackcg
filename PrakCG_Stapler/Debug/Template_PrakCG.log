@@ -1,0 +1,51 @@
+﻿D:\vsstudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Template_PrakCG.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cl : Befehlszeile warning D9035 : Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  Template_PrakCG.cpp
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(216,53): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(216,91): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(217,53): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(217,91): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(218,90): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(219,90): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(307,14): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(308,14): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(426,12): warning C4244:  "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(574,41): warning C4305:  "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(575,42): warning C4305:  "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(576,42): warning C4305:  "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(589,31): warning C4305:  "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(739,13): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(742,20): warning C4244:  "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(747,14): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(748,18): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(768,18): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1015,49): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1016,50): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1138,49): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1139,50): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1140,50): warning C4305:  "Argument": Verkürzung von "double" in "float"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1329,58): warning C4244:  "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1332,56): warning C4244:  "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1337,23): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1337,23): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1337,72): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1337,72): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1386,20): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1403,14): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1415,18): warning C4244:  "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1423,26): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1423,26): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1423,35): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1423,35): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1423,45): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1423,45): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1439,21): warning C4244:  "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1440,27): warning C4244:  "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1441,21): warning C4244:  "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1470,115): warning C4244:  "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1490,23): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1490,23): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1490,72): warning C4838:  Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1490,72): warning C4244:  "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Template_PrakCG.cpp(1492,116): warning C4244:  "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  Template_PrakCG.vcxproj -> C:\Users\chris\Desktop\prakcg\prakcg_u1_4\PrakCG_U1\Debug\PrakCG_Stapler.exe

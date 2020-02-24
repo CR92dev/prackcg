@@ -1,0 +1,58 @@
+# Blender MTL File: 'gabelstapler.blend'
+# Material Count: 4
+
+newmtl 07___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:\MODELING_3D\3DsMAX\EuroPalette\sceneassets\images\EuroPalette_DIFF.tif
+map_Bump E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_NRM.tif
+map_Ka E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_DIFF.tif
+map_Ks E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_SPC.tif
+
+newmtl 07___Default.001
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:\MODELING_3D\3DsMAX\EuroPalette\sceneassets\images\EuroPalette_DIFF.tif
+map_Bump E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_NRM.tif
+map_Ka E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_DIFF.tif
+map_Ks E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_SPC.tif
+
+newmtl 07___Default.002
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:\MODELING_3D\3DsMAX\EuroPalette\sceneassets\images\EuroPalette_DIFF.tif
+map_Bump E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_NRM.tif
+map_Ka E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_DIFF.tif
+map_Ks E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_SPC.tif
+
+newmtl 07___Default.003
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:\MODELING_3D\3DsMAX\EuroPalette\sceneassets\images\EuroPalette_DIFF.tif
+map_Bump E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_NRM.tif
+map_Ka E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_DIFF.tif
+map_Ks E:\\MODELING_3D\\3DsMAX\\EuroPalette\\sceneassets\\images\\EuroPalette_SPC.tif
